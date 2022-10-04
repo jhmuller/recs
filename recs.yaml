@@ -1,0 +1,18 @@
+name: recs
+dependencies:
+  - python=3.10
+  - jupyter
+  - IPython
+  - pandas
+  - numpy
+  - nbconvert
+  - jupyterlab
+  - pip
+  - pip:
+    - plotnine
+    - tqdm
+    - matplotlib
+    - scikit-learn
+    - scipy
+    - statsmodels
+    - torch
